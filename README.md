@@ -4,7 +4,7 @@
 
 I'm a software engineer interested in cloud and container orchestration.
 
-### Tech Stack
+### 💻  Tech Stack
 
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white"/>
 <img src="https://img.shields.io/badge/gin--gonic-00ADD8?style=flat&logo=Go&logoColor=white"/>
@@ -13,7 +13,7 @@ I'm a software engineer interested in cloud and container orchestration.
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
 
-### Contact
+### 📱  Contact
 
 <a href="https://www.instagram.com/kwanoknoh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/kwanoknoh/"/>
 <a href="mailto:rosejap97@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=rosejap97@gmail.com"/>
