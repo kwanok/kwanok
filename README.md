@@ -1,18 +1,24 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**kwanok/kwanok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, Seoul! 
 
-Here are some ideas to get you started:
+## I'm Kwanok
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a software engineer interested in cloud and container orchestration.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwanok)](https://github.com/anuraghazra/github-readme-stats)
+### Tech Stack
+
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white"/>
+<img src="https://img.shields.io/badge/gin--gonic-00ADD8?style=flat&logo=Go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
+
+### Contact
+
+<a href="https://www.instagram.com/kwanoknoh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/kwanoknoh/"/>
+<a href="mailto:rosejap97@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=rosejap97@naver.com"/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwanok&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+</div>
