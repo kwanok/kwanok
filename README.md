@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hello, Seoul! 
-
-## I'm Kwanok
+## Hello, I'm Kwanok
 
 I'm a software engineer interested in cloud and container orchestration.
 
