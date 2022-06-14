@@ -20,7 +20,7 @@ I'm a software engineer interested in cloud and container orchestration.
 
 <a href="https://www.instagram.com/kwanoknoh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/kwanoknoh/"/></a>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/kwanok)
+![Leetcode Stats](https://leetcard.jacoblin.cool/kwanok?theme=unicorn)
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwanok&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
   
