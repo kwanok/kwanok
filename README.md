@@ -23,6 +23,5 @@ I'm a software engineer interested in cloud and container orchestration.
 ![Leetcode Stats](https://leetcard.jacoblin.cool/kwanok?theme=unicorn)
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwanok&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkwanok&count_bg=%23EDD7C3&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 </div>
